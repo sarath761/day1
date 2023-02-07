@@ -1,0 +1,59 @@
+.main{
+   
+    
+    height: 760px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1900px 1300px;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+#h1
+{
+    display: flex;
+    justify-content: center;
+    color:white;
+    font-size:25pt;
+    font-family: cursive;
+    text-decoration:none;
+    
+}
+#h2
+{
+    display: flex;
+    justify-content: center;
+   padding-left: 50px;
+   padding-right: 50px;
+   padding-bottom: 50px;
+    color:white;
+    text-align: center;
+ 
+}
+#ab{
+    color: white;
+    display: flex;
+    justify-content:center;
+    
+}
+#ab>a{
+text-decoration: none;
+color: white;
+}
+
+#abc{
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 50%;
+  height: 400px;
+  width: 300px;
+  padding-left: 600px;
+ 
+}
+#cross{
+    display: flex;
+    background-color: black;
+}
+

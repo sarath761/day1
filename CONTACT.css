@@ -1,0 +1,22 @@
+/* .two{ 
+   
+    background-image: linear-gradient(to right, rgb(255, 0, 81) , rgb(149, 0, 255));
+    height: 760px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1900px 1300px;
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    
+} */
+
+#one{
+    display: flex;
+    justify-content: center;
+    
+}
+#con{
+    display: flex;
+    justify-content: right;
+}
